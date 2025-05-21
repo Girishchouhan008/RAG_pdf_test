@@ -4,14 +4,14 @@ RAG PDF Question Answering App
 
 This is a local Retrieval-Augmented Generation (RAG) application that allows you to upload PDF documents and ask questions about their content.
 
-## Features
+Features
 
 - Upload PDF files via the web interface
 - Extract and index text chunks 
 - Use a local transformer-based language model for answering questions offline
 - Simple Streamlit interface for easy interaction
 
-## Installation
+Installation
 
 Clone the repository and install dependencies:
 
