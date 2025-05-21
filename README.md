@@ -1,7 +1,6 @@
 # RAG_pdf_test
 upload a pdf and get answer about pdf context
-
-<!-- # RAG PDF Question Answering App
+RAG PDF Question Answering App
 
 This is a local Retrieval-Augmented Generation (RAG) application that allows you to upload PDF documents and ask questions about their content.
 
